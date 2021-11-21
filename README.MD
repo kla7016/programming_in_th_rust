@@ -2,3 +2,11 @@
 ```
 https://beta.programming.in.th/
 ```
+
+### RUN CODE
+```
+cargo run
+```
+```
+rustc hello.rs
+```
